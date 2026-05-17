@@ -198,9 +198,9 @@ Only messages with `id > last_id` are fetched, keeping it fast and lightweight.
 
 | Name | Email | CNIC | Password |
 |---|---|---|---|
-| Zainab Adnan | zainab@gmail.com | 331166778899 | password |
-| ayesha | ayesha@gmail.com | 432747 | password |
-| Sajal | sajal@gmail.com | 432748 | password |
+| Zainab  | zainab@gmail.com | 11122-3344556-7 | password |
+| Ayesha | ayesha@gmail.com |12345-6789012-3| password |
+| Sajal | sajal@gmail.com |33110-4567890-8 | password |
 
 ---
 
@@ -219,5 +219,5 @@ Only messages with `id > last_id` are fetched, keeping it fast and lightweight.
 ## 👩‍🎓 Developed By
 
 **Zainab Adnan**
-Student ID: 331166778899
+Student ID: 11122-3344556-7
 EduChat — Student Communication Platform
