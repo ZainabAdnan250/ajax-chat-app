@@ -229,13 +229,5 @@ This project is licensed under the MIT License.
 
 
 
-## 📸 Screenshots
 
-### Login Page
-![Login](login.png)
-
-### Chat UI
-![chat-UI](chat-UI.png)
-### Register 
-![Register](Register)
 
