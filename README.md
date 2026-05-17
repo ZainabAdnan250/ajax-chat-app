@@ -216,8 +216,13 @@ Only messages with `id > last_id` are fetched, keeping it fast and lightweight.
 
 ---
 
+
 ## 👩‍🎓 Developed By
 
 **Zainab Adnan**
 Student ID: 11122-3344556-7
 EduChat — Student Communication Platform
+
+
+## 📄 License
+This project is licensed under the MIT License.
