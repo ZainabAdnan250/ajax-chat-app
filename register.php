@@ -163,7 +163,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       </div>
       <div class="form-group">
         <label>CNIC *</label>
-        <input type="text" name="cnic" placeholder="3310026164848" value="<?= htmlspecialchars($_POST['cnic'] ?? '') ?>" required>
+        <input type="text" name="cnic" placeholder="12345-67896-8" value="<?= htmlspecialchars($_POST['cnic'] ?? '') ?>" required>
       </div>
     </div>
     <div class="form-group">
