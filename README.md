@@ -95,9 +95,19 @@ http://localhost/chatapp/login.php
 ---
 
 ## ✨ Features
+## 📸 Screenshots
+
+### Login Page
+![login](login.png)
+
+### Chat UI
+![chat-UI](chat.png)
+
+### Register
+![Register](Register.png)
 
 ### 🔐 Authentication
-- **Register** with Full Name, CNIC, Email, Phone, Password
+- **Register** with Full Name, CNIC, Email, Phone, Password   
 - **Login** using Email OR CNIC
 - Secure password hashing using PHP `password_hash()`
 - Session-based authentication
