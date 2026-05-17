@@ -64,9 +64,9 @@ CREATE TABLE IF NOT EXISTS group_messages (
 
 -- Sample data
 INSERT INTO users (cnic, full_name, email, phone, password) VALUES
-(' 331166778899', 'Zainab Adnan', 'zainab@gmail.com', '035061342678', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi'),
-('432747', 'Sajal', 'sajal@gmail.com', '03001234567', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi'),
-('432748', 'Ayesha', 'Ayesha@gmail.com', '03009876543', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi');
+(' 11122-3344556-7', 'Zainab ', 'zainab@gmail.com', '03234567890', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi'),
+('12345-6789012-3', 'Sajal', 'sajal@gmail.com', '0300456784', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi'),
+('33110-4567890-8', 'Ayesha', 'Ayesha@gmail.com', '0300556677', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi');
 
 INSERT INTO chat_groups (name, description, created_by) VALUES
 ('Faculty', 'Report submssion date-', 1);
