@@ -95,16 +95,6 @@ http://localhost/chatapp/login.php
 ---
 
 ## ✨ Features
-## 📸 Screenshots
-
-### Login Page
-![login](login.png)
-
-### Chat UI
-![chat-UI](chat.png)
-
-### Register
-![Register](Register.png)
 
 ### 🔐 Authentication
 - **Register** with Full Name, CNIC, Email, Phone, Password   
@@ -236,3 +226,16 @@ EduChat — Student Communication Platform
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+
+
+## 📸 Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Chat UI
+![chat-UI](chat-UI.png)
+### Register 
+![Register](Register)
+
