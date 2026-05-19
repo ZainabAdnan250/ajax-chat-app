@@ -187,7 +187,6 @@ Only messages with `id > last_id` are fetched, keeping it fast and lightweight.
 ## 🔐 Security Features
 
 - Passwords stored as **bcrypt hash** (never plain text)
-- All user inputs sanitized with `real_escape_string()`
 - Session-based login — unauthorized users redirected
 - File upload validation (type + size check)
 - SQL queries use integer casting for IDs
@@ -211,7 +210,6 @@ Only messages with `id > last_id` are fetched, keeping it fast and lightweight.
 - File/image sharing in chat
 - Message delete and edit
 - Push notifications
-- Mobile responsive design
 - Dark mode
 
 ---
